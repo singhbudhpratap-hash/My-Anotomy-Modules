@@ -2,7 +2,7 @@
 
 This repository contains my Python, Data Analysis, Statistics, and Machine Learning practice modules created using Google Colab.
 
-## 📚 Modules
+##  Modules
 
 ### 1. My Anatomy Module
 - Basic data analysis and Python concepts
@@ -23,7 +23,7 @@ This repository contains my Python, Data Analysis, Statistics, and Machine Learn
 - Data visualization using Matplotlib
 - COVID-19 dataset analysis
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Google Colab
@@ -32,12 +32,8 @@ This repository contains my Python, Data Analysis, Statistics, and Machine Learn
 - Matplotlib
 - KaggleHub
 
-## 🎯 Purpose
+##  Purpose
 
 The purpose of this repository is to practice Python programming, data analysis, statistics, and visualization through different practical modules and datasets.
-
-## 👨‍💻 Author
-
-**Budh Pratap Singh**
 
 GitHub: [singhbudhpratap-hash](https://github.com/singhbudhpratap-hash)
